@@ -1,0 +1,10 @@
+ULTIMATE WINDOWS CUSTOMIZER
+
+If you have used any other applications or manual hacks to Customize Windows, it is highly advised that you reverse these changes before running UWC.
+
+This is due to the fact that upon First Run, UWC will generate Backups of the Current Files\Registry Settings to allow the user to revert back to Default. Due to the wide nature of Customizations, this is the only option to revert back to Default.
+
+If you are sure your system would not be harmed if you reverted back to the way it was before running UWC then continue and Happy Customizing.
+
+The Windows Club Team
+www.thewindowsclub.com

@@ -1,0 +1,1 @@
+Copy rarreg.key to C:\Program Files\WinRAR  or  C:\Program Files (x86)\WinRAR

@@ -1,0 +1,28 @@
+RegOwnit v1.0
+
+Take Ownership of a Registry key using Administrator, HomeUsers or the current Logged On User.
+
+Apply Full or Read Only Permissions to a Registry Key.
+
+I have tested on Windows 7 Home Premium x86 and had a 100% rate with every test. This does not mean this will work 100% for everyone but if you have errors or can't get application to run. Visit The Windows Club Forumsand leave Feedback.
+
+After constantly getting annoyed at manually editing Permissions for a Registry Key I searched trying to locate an easier option and found a wonderful Command-Line based app called SetACL by Helge Klein. http://helgeklein.com/
+
+While this gives users the ability to do alot that users weren't able to do with Registry Keys without extra effort.
+
+RegOwnit is basically a shell to the Command-Line SetACL, giving users an easy solution without alot of know how. This does not mean there isn't much to RegOwnit, quite the opposite.
+
+I tried my best to keep the file size to a minimum but SetACL is close to 2MB itself and there was no way to eliminate this.
+
+RegOwnit v1.0 has been developed by Lee Whiitington for The Windows Club.
+
+If you enjoy the application and wish to help support my work feel free to help me with a donation, which I use to further my works and help keep them free for everyone to use. This donation does not go to TheWindowsClub.com
+
+Always backup your registry and/or create a sytem restore point first before using RegOwnit.
+
+As this is an Experimental Beta application, please make sure to read the following.
+-------------------------------------------------------------------------------------------------------------------
+Disclaimer:
+By downloading and using RegOwnit Beta v1.0 you agree to all the following terms: 
+You may not redistribute RegOwnit Beta v1.0 for sale or claim as your own. RegOwnit Beta v1.0 is supplied AS-IS as such the Publisher or Author, assumes no responsibility for damages to users computer intentional or unintentional.You may not decompile or disassemble this product. 
+All product names, logos, and trademarks are acknowledged as the registered intellectual property of their respective owners.

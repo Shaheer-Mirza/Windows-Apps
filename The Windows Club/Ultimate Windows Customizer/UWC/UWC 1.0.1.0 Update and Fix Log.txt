@@ -1,0 +1,24 @@
+Ultimate Windows Customizer Update Information
+
+Version 1.0.1.0 Updates
+===========================================================================================
+
+
+Additions
+-------------------------------------------------------------------------------------------
+None Added
+-------------------------------------------------------------------------------------------
+
+
+Bug Fixes
+-------------------------------------------------------------------------------------------
+Changed how Application determines OS Version: Windows Vista, 7, 2008, Windows 8........
+Changed Image Compression for Logon Screen JPG.
+Minor adjustment for Backups folder.
+Minor fix for issue with Logon Screen Background Location on load.
+Minor fix for Context Menu Section Browse button error.
+Minor Fix for Misc Section Wordpad error.
+Minor fix for Windows Media Player Mini Player error.
+Minor fix for Explorer Section load error.
+Minor fix for Library Section load error.
+-------------------------------------------------------------------------------------------
